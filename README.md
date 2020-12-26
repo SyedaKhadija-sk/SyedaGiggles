@@ -23,3 +23,8 @@
 - 🌱 I’m currently learning JavaScript! 😎
 - 📫 How to reach me: khadija.faheem20@gmail.com 📧
 - ⚡ Student and a Developer 🚀
+
+
+[gmail]: (mailto:khadija.faheem20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[Github]: https://github.com/syedakhadija
+[twitter]: https://twitter.com/syedakh89352230
