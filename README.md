@@ -25,6 +25,24 @@
 - ⚡ Student and a Developer 🚀
 
 
+<br>
+
+
+## LANGUAGES AND STATS
+
+<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/cpp/cpp.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+## <br>
+
+
+<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=syedakhadija&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
+<img align="center" justify="center" alt="Syeda Khadija's Github Stats" src="https://github-readme-stats.vercel.app/api?username=syedakhadija&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
+
+
 [gmail]: (mailto:khadija.faheem20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [Github]: https://github.com/syedakhadija
 [twitter]: https://twitter.com/syedakh89352230
