@@ -4,7 +4,7 @@
 <br>
 
 
-### CONNECT WITH ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="25px" />
+### CONNECT WITH ME
 
 [<img align="left" alt="syedakhadija @ Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][gmail]
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=1b6ee9&label=khadija.faheem20%40gmail.com&style=for-the-badge)](mailto:khadija.faheem20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)<br>
