@@ -40,7 +40,7 @@
 
 
 <!-- <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=syedakhadija&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" /> -->
-<img align="center" justify="center" alt="Syeda Khadija's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SyedaGigglyPuff&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
+<img align="center" justify="center" alt="Syeda Khadija's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SyedaGiggles&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
 
 
 [gmail]: (mailto:khadija.faheem20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
