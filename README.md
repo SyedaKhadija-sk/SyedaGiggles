@@ -11,7 +11,7 @@
 [<img align="left" alt="syedakhadija @ gitub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 ![GitHub followers](https://img.shields.io/github/followers/SyedaGiggles?color=1b6ee9&label=Follow%20%40SyedaGiggles&style=for-the-badge)<br>
 [<img align="left" alt="syedakhadija @ Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]
-[![Twitter Follow](https://img.shields.io/twitter/follow/syedakh89352230?color=1b6ee9&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsyedakh89352230&screen_name=syedakh89352230)<br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/syedagiggles?color=1b6ee9&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsyedagiggles&screen_name=syedagiggles)<br>
 
 
 <br>
@@ -45,4 +45,4 @@
 
 [gmail]: (mailto:khadija.faheem20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [Github]: https://github.com/SyedaGiggles
-[twitter]: https://twitter.com/syedakh89352230
+[twitter]: https://twitter.com/syedagiggles
