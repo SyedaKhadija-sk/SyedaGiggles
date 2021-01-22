@@ -40,7 +40,7 @@
 ## <br>
 
 
-<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=syedakhadija&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
+<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=syedagiggles&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
 <img align="center" justify="center" alt="Syeda Khadija's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SyedaGiggles&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
 
 
