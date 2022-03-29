@@ -10,8 +10,6 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=1b6ee9&label=khadija.faheem20%40gmail.com&style=for-the-badge)](mailto:khadija.faheem20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)<br>
 [<img align="left" alt="syedakhadija @ gitub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 ![GitHub followers](https://img.shields.io/github/followers/SyedaGiggles?color=1b6ee9&label=Follow%20%40SyedaGiggles&style=for-the-badge)<br>
-[<img align="left" alt="syedakhadija @ Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]
-
 <br>
 
 
@@ -44,4 +42,4 @@
 
 [gmail]: (mailto:khadija.faheem20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [Github]: https://github.com/SyedaGiggles
-[linkdin]: https://linkedin.com/in/syeda-khadija-84494222a/
+
