@@ -46,4 +46,4 @@
 
 [gmail]: (mailto:khadija.faheem20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [Github]: https://github.com/SyedaGiggles
-[twitter]: https://twitter.com/syedagiggles
+[linkdin]: https://www.linkedin.com/in/syeda-khadija-84494222a/
